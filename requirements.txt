@@ -1,0 +1,4 @@
+even-glasses
+speechrecognition
+pyaudio
+pandas
