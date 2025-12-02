@@ -2,3 +2,5 @@ even-glasses
 speechrecognition
 pyaudio
 pandas
+pytest
+pytest-mock
